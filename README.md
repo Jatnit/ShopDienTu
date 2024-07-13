@@ -1,4 +1,4 @@
-# Đồ án lập trình JAVA (4 người)
+# Đồ án lập trình JAVA (3 người)
 <h3>Các ngôn ngữ sử dụng: Java, T-SQL</h3>
 <h3>Phần mềm hỗ trợ giao diện: Java Swing</h3>
 <h3>Các chức năng:</h3>
